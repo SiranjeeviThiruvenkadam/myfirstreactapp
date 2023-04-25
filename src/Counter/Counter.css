@@ -1,0 +1,22 @@
+@import url("https://unpkg.com/bootstrap@5.2.3/dist/css/bootstrap.min.css");
+
+.counter-app {
+    margin-bottom: 20px;
+}
+
+.counter-btn {
+    font-Size: 24px;
+    border: 1px solid white;
+    margin: 0 10px;
+    width: 100px;
+}
+
+.counter-span {
+    font-weight: 700;
+    padding: 0 20px;
+}
+
+.totalIncValue {
+    font-weight: 700;
+    font-size: 30px;
+}
